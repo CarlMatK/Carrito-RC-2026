@@ -93,6 +93,13 @@ Al final de la semana 6: tener el carrito integrado, documentado y con el diseñ
 
 > **Seguridad:** confirmar el modelo exacto de cada módulo y sus límites antes de cablear. No conectar la batería directamente a un pin de alimentación del ESP32-C3 sin verificar el rango permitido. Ajustar y medir el regulador antes de conectar la placa; probar motores con ruedas levantadas y detener la prueba si hay calentamiento excesivo.
 
-## Organización en GitHub
+## Tareas semanales
 
-Cada semana debe trabajarse como una tarea independiente. Las seis tareas del roadmap están en Issues; se pueden agregar al Project **Carrito RC** para verlas como tablero.
+- [Semana 1 — Fundamentos, componentes y entorno ESP32-C3](https://github.com/CarlMatK/Carrito-RC-2026/issues/1)
+- [Semana 2 — ESP-NOW y primer movimiento del carrito](https://github.com/CarlMatK/Carrito-RC-2026/issues/2)
+- [Semana 3 — Baterías, regulación y alimentación de potencia](https://github.com/CarlMatK/Carrito-RC-2026/issues/3)
+- [Semana 4 — Chasis, llantas y firmware confiable](https://github.com/CarlMatK/Carrito-RC-2026/issues/6)
+- [Semana 5 — Diseño de PCB para carro y control](https://github.com/CarlMatK/Carrito-RC-2026/issues/5)
+- [Semana 6 — Integración, pruebas y documentación](https://github.com/CarlMatK/Carrito-RC-2026/issues/4)
+
+Las tareas están listas para agregarse al [Project #6](https://github.com/users/CarlMatK/projects/6) y gestionarse como tablero.
