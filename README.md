@@ -10,14 +10,14 @@ Al final de la semana 6: tener el carrito integrado, documentado y con el diseñ
 
 ## Roadmap
 
-| Semana | Tema | Resultado esperado |
+| Semana | Fechas (2026) | Tema | Resultado esperado |
 |---|---|---|
-| 1 | Fundamentos, componentes y entorno | Diagrama de bloques, componentes identificados, entorno para ESP32-C3 instalado y joystick leído localmente. |
-| 2 | ESP-NOW y prototipo mínimo | Joystick → ESP-NOW → ESP32-C3 receptor → DRV8251 → motores N20; prueba segura en banco. |
-| 3 | Alimentación y electrónica de potencia | Baterías y reguladores seleccionados con base en voltajes y corrientes medidos; alimentación estable. |
-| 4 | Chasis, llantas y control | Montaje mecánico probado; dirección, velocidad, zona muerta y pérdida de señal controladas. |
-| 5 | Diseño de las dos PCB | Esquemáticos y diseño de PCB para carro y control, revisados contra el prototipo. |
-| 6 | Integración, validación y documentación | Pruebas finales, registro de resultados y preparación de la siguiente revisión de hardware. |
+| 1 | 12–18 oct | Fundamentos, componentes y entorno | Diagrama de bloques, componentes identificados, entorno para ESP32-C3 instalado y joystick leído localmente. |
+| 2 | 19–25 oct | ESP-NOW y prototipo mínimo | Joystick → ESP-NOW → ESP32-C3 receptor → DRV8251 → motores N20; prueba segura en banco. |
+| 3 | 26 oct–1 nov | Alimentación y electrónica de potencia | Baterías y reguladores seleccionados con base en voltajes y corrientes medidos; alimentación estable. |
+| 4 | 2–8 nov | Chasis, llantas y control | Montaje mecánico probado; dirección, velocidad, zona muerta y pérdida de señal controladas. |
+| 5 | 9–15 nov | Diseño de las dos PCB | Esquemáticos y diseño de PCB para carro y control, revisados contra el prototipo. |
+| 6 | 16–24 nov (entrega) | Integración, validación y documentación | Pruebas finales, registro de resultados y preparación de la siguiente revisión de hardware. |
 
 ### Semana 1 — Bases y preparación
 
@@ -102,4 +102,4 @@ Al final de la semana 6: tener el carrito integrado, documentado y con el diseñ
 - [Semana 5 — Diseño de PCB para carro y control](https://github.com/CarlMatK/Carrito-RC-2026/issues/5)
 - [Semana 6 — Integración, pruebas y documentación](https://github.com/CarlMatK/Carrito-RC-2026/issues/4)
 
-Las tareas están listas para agregarse al [Project #6](https://github.com/users/CarlMatK/projects/6) y gestionarse como tablero.
+El calendario con rangos y seguimiento está en el [Roadmap carrito RC 2026 — Project #6](https://github.com/users/CarlMatK/projects/6). La fecha final de entrega es el **24 de noviembre de 2026**.
